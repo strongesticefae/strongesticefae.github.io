@@ -11,9 +11,10 @@ AnCom, enby, PolyPan. If those are a problem, then buzz off, I don't need you he
 """
 theme = 'dark'
 listDateFormat = '2006-01-02'
-homeCollectionTitle = 'Posts'
+homeCollectionTitle = 'Recent Posts'
 homeCollection = 'posts'
 breadcrumbs = true
+paginationSize = 10
 
 [[params.menu]]
 name = "Home"
