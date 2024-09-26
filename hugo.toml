@@ -13,3 +13,12 @@ theme = 'dark'
 listDateFormat = '2006-01-02'
 homeCollectionTitle = 'Posts'
 homeCollection = 'posts'
+breadcrumbs = true
+
+[[params.menu]]
+name = "home"
+url = "/"
+
+[[params.menu]]
+name = "posts"
+url = "/posts"
