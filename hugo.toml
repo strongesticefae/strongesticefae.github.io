@@ -2,3 +2,12 @@ baseURL = 'https://strongesticefae.github.io/'
 languageCode = 'en-us'
 title = "Cirno's Palace of Junk"
 theme = 'typo'
+[params]
+homeIntroTitle = 'こんにちは！'
+homeIntroContent = """
+Okay, enough of Japanese. 
+I am someone who is rightly disgusted with the state of the world, and has been moreso since 2016.
+AnCom, enby, PolyPan. If those are a problem, then buzz off, I don't need you here.
+"""
+theme = 'dark'
+listDateFormat = '2006-01-02'
