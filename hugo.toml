@@ -23,3 +23,7 @@ url = "/"
 [[params.menu]]
 name = "Posts"
 url = "/posts"
+
+[[params.social]]
+name = "github"
+url = "https://github.com/strongesticefae"
